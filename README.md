@@ -7,6 +7,7 @@
 -😀I'm looking for new projects to start working as a junior fullstack developer 
 
 -Stuff I was learning and still grinding 😅
+
 ![My Skills](https://skillicons.dev/icons?i=git,github,typescript,react,nextjs,jest,css,node)
 
 📫Contact me:
